@@ -35,6 +35,9 @@ footer {
   float: right;
   margin-left: 10px;
 }
+.tile-image < p {
+  margin-let: 10px; 
+}
 
 .left .tile-image {
   order: 2;
