@@ -69,10 +69,3 @@ margin-left: 10px;
 
 }
 
-@media (min-width: 1201px) {
-.container {
-  gap: 400px; 
-}
-.right .tile-image { 
-  margin-right: 10px}
-  
