@@ -22,7 +22,7 @@ footer {
 
 .container {
   display: flex;
-  gap: 800px;
+  gap: 850px;
   .right .tile-image{ 
   float: right}
   
