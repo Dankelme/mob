@@ -22,7 +22,7 @@ footer {
 
 .container {
   display: flex;
-  gap: 500px;
+  gap: 800px;
   .right .tile-image{ 
   float: right}
   
@@ -35,9 +35,7 @@ footer {
   float: right;
   margin-left: 10px;
 }
-.tile-image < p {
-  margin-let: 10px; 
-}
+
 
 .left .tile-image {
   order: 2;
