@@ -23,9 +23,6 @@ footer {
 .container {
   display: flex;
   gap: 600px;
-  .right .tile-image{ 
-  float: right}
-  
 }
 
 .right .tile-image {
