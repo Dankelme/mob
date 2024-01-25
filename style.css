@@ -70,7 +70,7 @@ margin-left: 10px;
 }
 
 @media (min-width: 1200px) {
-.container: gap 600px
+.container: gap 800px
 }
 .right .tile-image { 
   margin-right: 10px}
