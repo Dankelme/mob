@@ -69,7 +69,7 @@ margin-left: 10px;
 
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1201px) {
 .container: gap 800px
 }
 .right .tile-image { 
