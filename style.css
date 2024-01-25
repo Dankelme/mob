@@ -22,7 +22,9 @@ footer {
 
 .container {
   display: flex;
-  gap: 200px;
+  gap: 500px;
+  .right .tile-image{ 
+  float: right}
   
 }
 
@@ -45,10 +47,7 @@ footer {
 .creative {
   color: midnightblue;
 }
-.container { 
-  gap: 400px
-.right .tile-image{ 
-  float: right}
+
 
 
 @media (max-width: 600px) {
